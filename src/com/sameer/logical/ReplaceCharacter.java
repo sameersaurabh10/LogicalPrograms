@@ -1,4 +1,4 @@
-package com.samee.logical;
+package com.sameer.logical;
 
 /*
     WAP to replace a character in given String....

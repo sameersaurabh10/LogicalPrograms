@@ -1,4 +1,4 @@
-package com.samee.logical;
+package com.sameer.logical;
 
 //WAP to reverse a string except first and last character which has length less than 4..
 

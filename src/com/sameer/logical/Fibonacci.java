@@ -1,4 +1,4 @@
-package com.samee.logical;
+package com.sameer.logical;
 
 /*
     WAP to display fibonacci series upto 100: 

@@ -1,4 +1,4 @@
-package com.samee.logical;
+package com.sameer.logical;
 
 //WAP to reverse a string without using built-in function...
 //WAP to reverse a string using recursion..

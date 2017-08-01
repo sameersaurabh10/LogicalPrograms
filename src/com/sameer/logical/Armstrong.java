@@ -1,4 +1,4 @@
-package com.samee.logical;
+package com.sameer.logical;
 /*
     WAP to check the given number is armstrong or not.
 */

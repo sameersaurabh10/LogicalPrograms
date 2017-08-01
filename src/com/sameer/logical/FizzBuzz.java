@@ -1,4 +1,4 @@
-package com.samee.logical;
+package com.sameer.logical;
 
 /*
   WAP to print number from 1 to 50,
