@@ -4,7 +4,7 @@ package com.samee.logical;
     WAP to replace a character in given String....
 */
 
-public class StringTest 
+public class ReplaceCharacter 
 {
     public void replaceString(String str,char ch,char temp)
     {
@@ -31,7 +31,7 @@ public class StringTest
     //Start of main method..
     public static void main(String[] args) 
     {
-	StringTest ref=new StringTest();
+	ReplaceCharacter ref=new ReplaceCharacter();
 	String str="I Love You, How are you bro";
 	//System.out.println("output : "+str[0]);
 	ref.replaceString(str,'o','#');
